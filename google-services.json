@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161119332969",
+    "project_id": "flowup-e7d25",
+    "storage_bucket": "flowup-e7d25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161119332969:android:becd9bbe54159b74b990f8",
+        "android_client_info": {
+          "package_name": "br.edu.iftm.muriloportes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161119332969-b8ohdbuqv3k9uhil4rffrcnqug6kssi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDugEKlTnLyC5oxk4GXq7nSP5YPMHuk1Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161119332969-b8ohdbuqv3k9uhil4rffrcnqug6kssi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
