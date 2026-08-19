@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "215002785593",
+    "project_id": "flowup-df519",
+    "storage_bucket": "flowup-df519.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215002785593:android:619e34d3671cfd8627aae8",
+        "android_client_info": {
+          "package_name": "br.edu.iftm.rafaelcosta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215002785593-802ac2v7sma03fpd1vdrj8q7vbcu1kvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBWuD1F-0kKwVxwvv26pD7BXuP3DMMp1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215002785593-802ac2v7sma03fpd1vdrj8q7vbcu1kvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
