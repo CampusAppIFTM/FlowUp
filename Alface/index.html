@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alface</title>
+</head>
+<body>
+    <p id="a"></p>
+    <script>
+        const texto = '{"nome":"Artur","idade":"93","dt_nasc":"10/01/1933"}'
+
+        const alface = JSON.parse(texto)
+        document.getElementById("a").innerHTML = "Meu, nome, é, "+alface.nome+", tenho, "+alface.idade+", anos, e, nasci, em... "+alface.dt_nasc;
+    </script>
+</body>
+</html>
